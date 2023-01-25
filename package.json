@@ -1,0 +1,55 @@
+{
+  "//1": "TRuva",
+  "//2": "truva",
+  "//3": "updating this file will download and update your packages",
+  "name": "KRatos",
+  "version": "0.0.1",
+  "description": "KRATOS",
+  "main": "kratos.js",
+  "scripts": {
+    "start": "node kratos.js"
+  },
+  "dependencies": {
+    "@codare/codare.ai": "^2.0.0",
+    "bad-words": "^3.0.4",
+    "can": "^6.6.1",
+    "chalk": "^4.1.1",
+    "cleverbot-free": "^1.1.6",
+    "dabi-images": "^2.7.5",
+    "db": "^3.3.1",
+    "discord-bots-api": "^0.0.2",
+    "discord-buttons": "^4.0.0",
+    "discord.js": "^12.5.3",
+    "express": "^4.17.1",
+    "fs": "^0.0.2",
+    "google": "^2.1.0",
+    "hastebin-gen": "^2.0.5",
+    "instagram-user": "^2.0.1",
+    "jimp": "^0.16.1",
+    "level-session-store": "^2.2.0",
+    "moment": "^2.29.1",
+    "moment-duration-format": "^2.3.2",
+    "ms": "^2.1.3",
+    "os": "^0.1.1",
+    "passport": "^0.4.1",
+    "passport-oauth2": "^1.6.0",
+    "quick.db": "^7.1.3",
+    "simple-youtube-api": "^5.2.1",
+    "util": "^0.12.4",
+    "weather-js": "^2.0.0",
+    "wio.db": "^4.0.21",
+    "ytdl-core": "^4.8.3"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/hello-express"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
